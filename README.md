@@ -1,4 +1,6 @@
-# learncss
+# Materi Vue Bootstrap
+
+Project init untuk digunakan pembelajaran vue menggunakan bootstrap
 
 ## Project setup
 ```
